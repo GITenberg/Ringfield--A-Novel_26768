@@ -1,0 +1,30 @@
+_repo: Ringfield--A-Novel_26768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, S. Frances (Susie Frances)
+    aliases:
+    - Harrison, Susie Frances
+    - Harrison, S. F. (Susie Frances)
+    - Seranus
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '32228'
+    url: http://www.gutenberg.org/2009/agents/32228
+description: ''
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Ringfield: A Novel'
+url: http://www.gutenberg.org/ebooks/26768
